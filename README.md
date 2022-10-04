@@ -1,1 +1,1 @@
-A basic HTML frontend for FundMe Contract.
+A basic HTML front end for interacting with our FundMe contract.
